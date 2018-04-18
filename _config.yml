@@ -22,3 +22,4 @@ author:
 github:
   repo:           https://github.com/datacarpentry/semester-biology
   #               Be sure the 'Issues' feature is activated in 'Settings'
+site.baseurl:     https://github.com/elultimodelafila/biologia
